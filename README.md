@@ -1,3 +1,3 @@
 # water_users_scripts
 
-Will publish soon!
+Use notebooks to scrape data. You will need to create appropriate folders with the names specified in code to store intermediate files.
